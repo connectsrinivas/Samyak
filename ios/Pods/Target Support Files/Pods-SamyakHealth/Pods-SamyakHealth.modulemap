@@ -1,0 +1,6 @@
+module Pods_SamyakHealth {
+  umbrella header "Pods-SamyakHealth-umbrella.h"
+
+  export *
+  module * { export * }
+}
